@@ -1,1 +1,2 @@
-# Data_Analytics_Projects
+# Hi! Welcome to my Data Analytics Projects Repository :)
+
