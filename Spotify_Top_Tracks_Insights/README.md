@@ -12,10 +12,7 @@ This interactive Power BI dashboard analyzes the most streamed tracks on Spotify
 
 Click the video below to see a preview of the dashboard in action!
 <p align="center">
-    <video width="100%" controls>
-        <source src="https://nshrimal11.github.io/Data_Analytics_Projects/Spotify_Top_Tracks_Insights/Spotify_Dashboard_Preview.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <img src="Spotify_Dashboard_Thumbnail.jpg" alt="Spotify Dashboard Preview" width="85%">
 </p>
 
 
