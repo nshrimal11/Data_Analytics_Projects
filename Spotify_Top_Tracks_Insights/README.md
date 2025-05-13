@@ -10,7 +10,7 @@ This interactive Power BI dashboard analyzes the most streamed tracks on Spotify
 - Track Attributes: Analysis of song characteristics like energy, danceability, and valence, presented through intuitive visuals, including a circular gauge for attribute percentages.
 - User Engagement: Interactivity features like filters for years, artists, and track selection to explore streaming patterns and insights dynamically.
 
-Click the video below to see a preview of the dashboard in action!
+#### Preview of Dashboard:
 <p align="center">
     <img src="Spotify_Dashboard_Thumbnail.jpg" alt="Spotify Dashboard Preview" width="85%">
 </p>
