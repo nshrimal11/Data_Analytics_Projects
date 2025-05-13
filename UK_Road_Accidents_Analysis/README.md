@@ -10,5 +10,5 @@ This interactive Power BI dashboard provides a comprehensive analysis of road ac
 
 #### Preview of Dashboard:
 <p align="center">
-    <img src="Spotify_Dashboard_Thumbnail.jpg" alt="Spotify Dashboard Preview" width="85%">
+    <img src="Road_Accident_Dashboard_Thumbnail.jpg" alt="UK Road Accidents Dashboard Preview" width="85%">
 </p>
