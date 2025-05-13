@@ -4,9 +4,9 @@ This interactive Power BI dashboard analyzes the most streamed tracks on Spotify
 
 ## Highlights include:
 
-- Track Insights: Key metrics such as total streams, top tracks, and artist performance trends.
-- Trend Analysis: Yearly streaming averages and growth rates compared against historical data.
-- Track Release Heatmap: A custom DENEB visualization that shows how many tracks were released on specific days and months, offering insights into music release patterns over the years.
+- **Track Insights**: Key metrics such as total streams, top tracks, and artist performance trends.
+- **Trend Analysis**: Yearly streaming averages and growth rates compared against historical data.
+- **Track Release Heatmap**: A custom DENEB visualization that shows how many tracks were released on specific days and months, offering insights into music release patterns over the years.
 - Track Attributes: Analysis of song characteristics like energy, danceability, and valence, presented through intuitive visuals, including a circular gauge for attribute percentages.
 - User Engagement: Interactivity features like filters for years, artists, and track selection to explore streaming patterns and insights dynamically.
 
