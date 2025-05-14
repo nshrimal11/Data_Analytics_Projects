@@ -14,6 +14,11 @@ This project, completed as part of my undergraduate final-year research, involve
 - Data visualization for an intuitive display of performance metrics
 - R programming for app development, Shiny framework expertise for interactive data visualization, and UI/UX design to create a user-friendly interface.
 
+**Preview of Dashboard:**
+
+<p align="center">
+    <img src="Final_Year_Project_Files/app_preview.jpg" alt="Wheelchair Basketball System Design" width="100%">
+</p>
 
 **Close-up of the designed sensor system attached to the wheelchair:**
 
