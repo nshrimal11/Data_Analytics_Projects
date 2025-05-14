@@ -17,11 +17,11 @@ This project, completed as part of my undergraduate final-year research, involve
 **Preview of Dashboard:**
 
 <p align="center">
-    <img src="Final_Year_Project_Files/app_preview.jpg" alt="Wheelchair Basketball System Design" width="100%">
+    <img src="Final_Year_Project_Files/app_preview.jpg" alt="Wheelchair Basketball System Design" width="85%">
 </p>
 
 **Close-up of the designed sensor system attached to the wheelchair:**
 
 <p align="center">
-    <img src="Final_Year_Project_Files/designed_system.jpg" alt="Wheelchair Basketball System Design" width="100%">
+    <img src="Final_Year_Project_Files/designed_system.jpg" alt="Wheelchair Basketball System Design" width="85%">
 </p>
