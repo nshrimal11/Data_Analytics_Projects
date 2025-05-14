@@ -2,6 +2,8 @@
 
 This interactive Power BI dashboard provides a comprehensive analysis of road accidents in the UK for the years 2021 and 2022. Key metrics such as total casualties, accident trends, and breakdowns by vehicle type, road type, and environmental conditions are visualized to uncover meaningful insights.
 
+Note: The dataset used in this analysis contains road accidents in the UK from 2021 - 2022.
+
 ## Highlights include:
 
 - **Casualty Overview:** Total casualties, serious injuries, and fatalities with year-on-year changes.
