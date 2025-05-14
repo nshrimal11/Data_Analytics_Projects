@@ -5,7 +5,7 @@ This project, completed as part of my undergraduate final-year research, involve
 **Supporting Docs:**
 - [Poster](Final_Year_Project_Files/Poster.pdf)
 - [Report](Final_Year_Project_Files/Report.pdf)
-- [App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/)
+- [App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/) - Click here to use the app I created!
 
 ## Tools Used:
 - Sensor integration for accurate data capture
