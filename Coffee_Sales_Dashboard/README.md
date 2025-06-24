@@ -29,7 +29,7 @@ The dataset consists of three tables:
 
 ## Methodology
 
-The project followed a systematic approach to data analysis, with the following key steps:
+The project followed a systematic approach, with the following key steps:
 
 ### 1. Data Preparation and Cleaning
 
