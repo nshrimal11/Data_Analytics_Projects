@@ -16,9 +16,9 @@ The dataset was sourced from: https://github.com/mochen862/excel-project-coffee-
 
 The dataset consists of three tables:
 
-- **Orders**: Contains transactional data, including order ID, date, customer ID, product ID, and sales details.
-- **Customers**: Includes customer information such as customer ID, name, email, country, and loyalty card status.
-- **Products**: Details product attributes like product ID, coffee type, roast type, size, unit price, and sales.
+- **Orders**: Contains transactional data, including Order ID, Order Date, Customer ID, product ID, and sales details.
+- **Customers**: Includes customer information such as Customer ID, Name, Email, Country, and Loyalty Card Status.
+- **Products**: Details product attributes like Product ID, Coffee Type, Roast Type, Size, Unit Price, and Profit.
 
 ## Project Objectives
 
@@ -31,19 +31,18 @@ The dataset consists of three tables:
 
 The project followed a systematic approach, with the following key steps:
 
-### 1. Data Preparation and Cleaning
+### 1. Data Cleaning & Preparation
 
 - **Data Integration**:
-  - Used **XLOOKUP** to populate customer-related columns in the Orders table (Customer Name, Email, Country) by referencing the Customers table. The formula was applied three times, once for each column, ensuring accurate data retrieval.
-  - Implemented **INDEX MATCH** to dynamically populate product-related columns (Coffee Type, Roast Type, Size, Unit Price, Sales) from the Products table. A single formula was designed to flexibly retrieve all product attributes, improving efficiency.
+  - Used **XLOOKUP** to populate customer-related columns in the Orders table (Customer Name, Email, Country) by referencing the Customers table.
+  - Implemented **INDEX MATCH** to dynamically fetch product data (Coffee Type, Roast Type, Size, Unit Price, Sales) from the Products table, using a single dynamic formula to streamline the process.
 - **Data Formatting**:
-  - Formatted the Date column to ensure consistent date representation.
-  - Converted the Size column to include units (e.g., "kg") for clarity.
-  - Applied currency formatting to the Unit Price and Sales columns to enhance readability.
+  - Standardized the Date column for consistency.
+  - Appended units ("kg") to the Size column and applied currency formatting to price and sales columns for clarity.
 - **Duplicate Removal**:
-  - Selected the entire dataset and used the **Remove Duplicates** feature under the 'Data' tab to eliminate redundant records, ensuring data accuracy.
+  - Removed duplicates using Excel’s 'Remove Duplicates' tool to ensure data quality.
 - **Table Conversion**:
-  - Converted the cleaned dataset into an Excel **Data Table** (using `Ctrl + T`) to enable dynamic referencing and simplify further analysis.
+  - Converted the dataset into an Excel Data Table for dynamic referencing and ease of analysis.
 
 ### 2. Data Analysis and Visualization
 
@@ -59,7 +58,7 @@ The project followed a systematic approach, with the following key steps:
     - Product Size
     - Loyalty Card Status
     - Roast Type
-  - Configured slicers under **Report Connections** to ensure all PivotCharts were synchronized with the selected filters, enabling seamless interactivity.
+  - Configured slicers via ***Report Connections*** to synchronize filters across all visualizations.
 - **Dashboard Creation**:
   - Designed an interactive dashboard consolidating the visualizations and slicers. The dashboard provides a user-friendly interface to explore sales data, filter by key dimensions, and uncover insights.
 
@@ -90,16 +89,9 @@ The project followed a systematic approach, with the following key steps:
 - Explore advanced visualization tools like Power BI or Tableau to enhance dashboard interactivity.
 - Apply statistical analysis to identify correlations between customer demographics and purchasing behavior.
 
-## How to Run the Project
-
-1. Download the dataset from the source repository.
-2. Open the dataset in Microsoft Excel.
-3. Follow the steps outlined in the Methodology section to replicate the data cleaning, transformation, and visualization process.
-4. Explore the dashboard by interacting with the slicers and timeline to uncover insights.
-
 ## Conclusion
 
-This project showcases a comprehensive data analysis workflow, from data preparation to interactive visualization. By leveraging Excel's advanced features, I was able to transform raw coffee sales data into a professional dashboard that delivers actionable insights. This experience has strengthened my skills in data manipulation, analysis, and storytelling, preparing me to tackle real-world data challenges in a data analyst role.
+This project demonstrates a robust data analysis workflow, from cleaning to visualization, using Excel to deliver actionable insights. It reflects my ability to handle complex datasets, create engaging dashboards, and communicate findings effectively
 
 ---
 
