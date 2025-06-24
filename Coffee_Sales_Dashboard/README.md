@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project involves analyzing a sample dataset of coffee sales to derive actionable insights through data cleaning, transformation, and visualization in Microsoft Excel. The goal was to create an interactive dashboard that provides a clear overview of sales performance, customer behavior, and product trends. This project demonstrates proficiency in data manipulation, advanced Excel functions, and data visualization techniques, showcasing a structured approach to data analysis suitable for a data analyst role.
+This project involves analyzing a sample dataset of coffee sales to derive actionable insights through data cleaning, transformation, and visualization in Microsoft Excel. The goal was to create an interactive dashboard that provides a clear overview of sales performance, customer behavior, and product trends. This project demonstrates proficiency in data manipulation, advanced Excel functions, and data visualization techniques, showcasing a structured approach to a data analysis workflow. 
 
 The dataset was sourced from: https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx
 
